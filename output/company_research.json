@@ -1,0 +1,83 @@
+```json
+{
+  "technical_questions": [
+    {
+      "question": "Given an array of integers, find the two numbers that add up to a specific target value. Return their indices.",
+      "category": "Data Structures and Algorithms",
+      "focus": "Hash Maps, Array Traversal"
+    },
+    {
+      "question": "Implement a function to reverse a linked list.",
+      "category": "Data Structures and Algorithms",
+      "focus": "Linked Lists, Pointer Manipulation"
+    },
+    {
+      "question": "Describe the difference between a stack and a queue. Provide real-world examples of where each data structure would be used.",
+      "category": "Data Structures",
+      "focus": "Stack, Queue, Data Structure Properties"
+    },
+    {
+      "question": "Write a function to check if a binary tree is balanced.",
+      "category": "Data Structures and Algorithms",
+      "focus": "Binary Trees, Recursion"
+    },
+    {
+      "question": "Explain the concept of dynamic programming. Provide an example of a problem that can be solved using dynamic programming.",
+      "category": "Algorithms",
+      "focus": "Dynamic Programming, Optimization"
+    },
+    {
+      "question": "What is the difference between TCP and UDP? When would you use each protocol?",
+      "category": "Networking",
+      "focus": "TCP, UDP, Network Protocols"
+    },
+    {
+      "question": "Explain the concept of object-oriented programming (OOP). What are the four main principles of OOP?",
+      "category": "Object-Oriented Programming",
+      "focus": "OOP Principles, Encapsulation, Inheritance, Polymorphism, Abstraction"
+    },
+    {
+      "question": "Describe the difference between '==' and '.equals()' in Java. When should you use each?",
+      "category": "Language Specific (Java)",
+      "focus": "Java, Equality Operators"
+    },
+    {
+      "question": "Explain the concept of garbage collection. How does garbage collection work in your preferred programming language?",
+      "category": "Memory Management",
+      "focus": "Garbage Collection, Memory Management"
+    },
+    {
+      "question": "Design a simple API for a URL shortening service. Consider the data structures you would use and the API endpoints you would expose.",
+      "category": "System Design",
+      "focus": "API Design, Data Structures, Scalability"
+    }
+  ],
+  "hr_questions": [
+    {
+      "question": "Why Microsoft?",
+      "category": "Motivation and Interest",
+      "focus": "Company Culture, Values, Opportunities"
+    },
+    {
+      "question": "Tell me about a time you failed. What did you learn from it?",
+      "category": "Behavioral",
+      "focus": "Resilience, Learning from Mistakes"
+    },
+    {
+      "question": "Describe a time you had to work with a difficult teammate. How did you handle the situation?",
+      "category": "Behavioral",
+      "focus": "Conflict Resolution, Teamwork"
+    },
+    {
+      "question": "Tell me about a project you are most proud of. What were your contributions, and what challenges did you overcome?",
+      "category": "Behavioral",
+      "focus": "Project Experience, Problem-Solving, Accomplishments"
+    },
+    {
+      "question": "Where do you see yourself in 5 years?",
+      "category": "Career Goals",
+      "focus": "Career Aspiration, Growth, Alignment with Company Goals"
+    }
+  ]
+}
+```

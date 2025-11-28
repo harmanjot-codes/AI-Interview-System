@@ -1,0 +1,17 @@
+```json
+{
+    "overall_score": 1.0,
+    "strengths": [],
+    "weaknesses": [
+        "Lack of technical knowledge demonstrated",
+        "No problem-solving skills exhibited",
+        "Extremely poor communication",
+        "Complete lack of engagement with the interview process"
+    ],
+    "topic_scores": {
+        "technical_knowledge": 1,
+        "problem_solving": 1,
+        "communication": 1
+    }
+}
+```

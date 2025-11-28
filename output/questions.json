@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Implement a rate limiter using Javascript and Redis that throttles API requests to prevent abuse. Consider different rate limiting algorithms (e.g., token bucket, leaky bucket) and explain your choice. How would you scale this for a high-traffic service?"
+  },
+  {
+    "question": "Design a client-side architecture (using React or similar framework) for a Google Maps autocomplete search box. Focus on performance optimization, handling debouncing/throttling, and integrating with the Google Maps API. Consider accessibility and internationalization."
+  },
+  {
+    "question": "Write a function in Javascript that efficiently merges two sorted arrays of potentially very large sizes, optimizing for memory usage. The arrays represent results from two different Google search indexes. Assume you can stream data if needed."
+  },
+  {
+    "question": "Explain how you would use Service Workers to implement offline functionality for a web application that displays dynamic content fetched from a Google Cloud Storage bucket. Consider caching strategies and data synchronization."
+  },
+  {
+    "question": "Describe how you would implement a robust error tracking and monitoring system for a large-scale web application at Google, considering different types of errors (front-end, back-end, network). Which tools and technologies would you use (e.g., Sentry, Google Cloud Logging, Stackdriver)? How would you prioritize fixing them?"
+  },
+  {
+    "question": "Design a component using Web Components standards to display a personalized news feed item based on user preferences and content categories. The component should be reusable across different Google web properties and performant with a large number of items. How would you ensure cross-browser compatibility?"
+  },
+  {
+    "question": "You are tasked with improving the performance of a Google Search results page. Identify potential performance bottlenecks (e.g., rendering, network requests, JavaScript execution) and propose specific solutions, including optimizations for Core Web Vitals. How would you measure the impact of your changes?"
+  }
+]
